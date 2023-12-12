@@ -12,6 +12,7 @@
 
 
 
-.container{
+.wrapper_container{
   grid-area: c;
+  background-color: khaki;
 }
