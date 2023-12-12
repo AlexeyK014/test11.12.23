@@ -10,9 +10,7 @@
 
 
 
-.navbar{
-  grid-area: n;
-}
+
 
 .container{
   grid-area: c;
